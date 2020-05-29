@@ -13,5 +13,12 @@ At current moment China's condition is stable with a net of 84,547 confirmed cas
 (the data provided here is till 20-03-2020)
 
 ## Italy
+italy was quick to still headlines as the number of covid cases increased exponentially there too.
+the lockdown was followed from 9th of March but however soon the numbers got real high
 ![](italy.jpg)
+at the current moment Italy is relatively stable as the rate of increase of cases are  reducing
+(the data provided here is till 11-04-2020)
 
+## India
+
+![](india.jpg)
