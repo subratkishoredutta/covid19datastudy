@@ -30,6 +30,7 @@ since the number of data is based on the number of day w simply used a linear re
 as the model trained the reduction in the cost can be seen as below
 
 ![](cost.png)
+ 
  the learning rate was reduced to 0.0000055 so as to reach the minimum possible cost 
  
 ## Conclusion
