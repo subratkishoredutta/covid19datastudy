@@ -35,3 +35,4 @@ as the model trained the reduction in the cost can be seen as below
 ## Conclusion
 even though the lockdown was placed in many countries the raise of confirm cases didn't reduced this can be due to people not following proper social distancing and resisting the lockdown.
 in india specifically as people were transported to various places from the main covid19 affected places it leads to a frequent increase in numbers
+(new updates in data of india will be done asap)
