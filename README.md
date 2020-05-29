@@ -20,5 +20,18 @@ at the current moment Italy is relatively stable as the rate of increase of case
 (the data provided here is till 11-04-2020)
 
 ## India
+on 30th Jan 2020 India detected its first Covid patient after that India was able to stop the spread by a huge margin for a very long time. Maharastra being the worst affected by the pandemic.The following distribution shows the increase of confirmed cases in India.
 
 ![](india.jpg)
+
+we tried to fit a model to increase in the number of confirmed cases in india and we achived the following results
+![](indiapred.jpg)
+since the number of data is based on the number of day w simply used a linear regression model to fit the data.
+as the model trained the reduction in the cost can be seen as below
+
+![](cost.png)
+ the learning rate was reduced to 0.0000055 so as to reach the minimum possible cost 
+ 
+## Conclusion
+even though the lockdown was placed in many countries the raise of confirm cases didn't reduced this can be due to people not following proper social distancing and resisting the lockdown.
+in india specifically as people were transported to various places from the main covid19 affected places it leads to a frequent increase in numbers
